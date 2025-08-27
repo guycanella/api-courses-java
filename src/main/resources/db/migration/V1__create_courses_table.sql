@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS courses (
+    id UUID PRIMARY KEY,
+    title VARCHAR(200) NOT NULL,
+    description TEXT,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
