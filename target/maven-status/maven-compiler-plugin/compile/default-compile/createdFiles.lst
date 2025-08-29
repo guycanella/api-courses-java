@@ -1,1 +1,7 @@
+com/guycanella/api_courses_java/domain/Course.class
+com/guycanella/api_courses_java/web/PagedResponse.class
+com/guycanella/api_courses_java/web/CourseController.class
+com/guycanella/api_courses_java/domain/CourseRepository.class
+com/guycanella/api_courses_java/web/CourseRequest.class
 com/guycanella/api_courses_java/ApiCoursesJavaApplication.class
+com/guycanella/api_courses_java/web/CourseCreatedResponse.class

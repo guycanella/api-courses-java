@@ -1,1 +1,7 @@
 /Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/ApiCoursesJavaApplication.java
+/Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/domain/Course.java
+/Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/domain/CourseRepository.java
+/Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/web/CourseController.java
+/Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/web/CourseCreatedResponse.java
+/Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/web/CourseRequest.java
+/Users/guilherme.canella/Documents/api-courses-java/src/main/java/com/guycanella/api_courses_java/web/PagedResponse.java
